@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/docentesPeges/static/css/main.e880cbef.chunk.css",
-    "main.js": "/docentesPeges/static/js/main.e3cfc529.chunk.js",
-    "main.js.map": "/docentesPeges/static/js/main.e3cfc529.chunk.js.map",
-    "runtime-main.js": "/docentesPeges/static/js/runtime-main.94fdea20.js",
-    "runtime-main.js.map": "/docentesPeges/static/js/runtime-main.94fdea20.js.map",
-    "static/js/2.fd554c10.chunk.js": "/docentesPeges/static/js/2.fd554c10.chunk.js",
-    "static/js/2.fd554c10.chunk.js.map": "/docentesPeges/static/js/2.fd554c10.chunk.js.map",
-    "index.html": "/docentesPeges/index.html",
-    "precache-manifest.596592b1b43850bf75fc90d44d67e799.js": "/docentesPeges/precache-manifest.596592b1b43850bf75fc90d44d67e799.js",
-    "service-worker.js": "/docentesPeges/service-worker.js",
-    "static/css/main.e880cbef.chunk.css.map": "/docentesPeges/static/css/main.e880cbef.chunk.css.map",
-    "static/js/2.fd554c10.chunk.js.LICENSE.txt": "/docentesPeges/static/js/2.fd554c10.chunk.js.LICENSE.txt"
+    "main.css": "/docentesPages/static/css/main.e880cbef.chunk.css",
+    "main.js": "/docentesPages/static/js/main.e07cb7e1.chunk.js",
+    "main.js.map": "/docentesPages/static/js/main.e07cb7e1.chunk.js.map",
+    "runtime-main.js": "/docentesPages/static/js/runtime-main.fbf30eab.js",
+    "runtime-main.js.map": "/docentesPages/static/js/runtime-main.fbf30eab.js.map",
+    "static/js/2.fd554c10.chunk.js": "/docentesPages/static/js/2.fd554c10.chunk.js",
+    "static/js/2.fd554c10.chunk.js.map": "/docentesPages/static/js/2.fd554c10.chunk.js.map",
+    "index.html": "/docentesPages/index.html",
+    "precache-manifest.3408613a94a5958757a25efb5a9f0e07.js": "/docentesPages/precache-manifest.3408613a94a5958757a25efb5a9f0e07.js",
+    "service-worker.js": "/docentesPages/service-worker.js",
+    "static/css/main.e880cbef.chunk.css.map": "/docentesPages/static/css/main.e880cbef.chunk.css.map",
+    "static/js/2.fd554c10.chunk.js.LICENSE.txt": "/docentesPages/static/js/2.fd554c10.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.94fdea20.js",
+    "static/js/runtime-main.fbf30eab.js",
     "static/js/2.fd554c10.chunk.js",
     "static/css/main.e880cbef.chunk.css",
-    "static/js/main.e3cfc529.chunk.js"
+    "static/js/main.e07cb7e1.chunk.js"
   ]
 }
