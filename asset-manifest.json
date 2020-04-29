@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/docentesPages/static/css/main.cebe2260.chunk.css",
-    "main.js": "/docentesPages/static/js/main.8be1bc14.chunk.js",
-    "main.js.map": "/docentesPages/static/js/main.8be1bc14.chunk.js.map",
+    "main.css": "/docentesPages/static/css/main.c9db44c7.chunk.css",
+    "main.js": "/docentesPages/static/js/main.8741942e.chunk.js",
+    "main.js.map": "/docentesPages/static/js/main.8741942e.chunk.js.map",
     "runtime-main.js": "/docentesPages/static/js/runtime-main.fbf30eab.js",
     "runtime-main.js.map": "/docentesPages/static/js/runtime-main.fbf30eab.js.map",
-    "static/js/2.f8be3e8d.chunk.js": "/docentesPages/static/js/2.f8be3e8d.chunk.js",
-    "static/js/2.f8be3e8d.chunk.js.map": "/docentesPages/static/js/2.f8be3e8d.chunk.js.map",
+    "static/js/2.80135ada.chunk.js": "/docentesPages/static/js/2.80135ada.chunk.js",
+    "static/js/2.80135ada.chunk.js.map": "/docentesPages/static/js/2.80135ada.chunk.js.map",
     "index.html": "/docentesPages/index.html",
-    "precache-manifest.dbb2bd4b8eb322bb09f1c13bbb2d86b4.js": "/docentesPages/precache-manifest.dbb2bd4b8eb322bb09f1c13bbb2d86b4.js",
+    "precache-manifest.f8b7b764c772a577b0d527a9b97314ef.js": "/docentesPages/precache-manifest.f8b7b764c772a577b0d527a9b97314ef.js",
     "service-worker.js": "/docentesPages/service-worker.js",
-    "static/css/main.cebe2260.chunk.css.map": "/docentesPages/static/css/main.cebe2260.chunk.css.map",
-    "static/js/2.f8be3e8d.chunk.js.LICENSE.txt": "/docentesPages/static/js/2.f8be3e8d.chunk.js.LICENSE.txt",
+    "static/css/main.c9db44c7.chunk.css.map": "/docentesPages/static/css/main.c9db44c7.chunk.css.map",
+    "static/js/2.80135ada.chunk.js.LICENSE.txt": "/docentesPages/static/js/2.80135ada.chunk.js.LICENSE.txt",
     "static/media/20670.webp": "/docentesPages/static/media/20670.725e9315.webp",
     "static/media/Logo-Tec.png": "/docentesPages/static/media/Logo-Tec.2e38d9ba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fbf30eab.js",
-    "static/js/2.f8be3e8d.chunk.js",
-    "static/css/main.cebe2260.chunk.css",
-    "static/js/main.8be1bc14.chunk.js"
+    "static/js/2.80135ada.chunk.js",
+    "static/css/main.c9db44c7.chunk.css",
+    "static/js/main.8741942e.chunk.js"
   ]
 }
